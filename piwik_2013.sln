@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2013
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "piwik_static", "msvc\piwik_static_2013.vcxproj", "{C8644A28-38E0-4461-BE9B-4A1807586E04}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "piwik_dynamic", "msvc\piwik_dynamic_2013.vcxproj", "{461D1493-11F4-4688-8C79-C46481336C0D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "piwik_tests", "msvc\piwik_tests_2013.vcxproj", "{DD9DD154-05D0-47AB-A1C9-A612FE13EC1B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "piwik_static_example", "msvc\piwik_static_example_2013.vcxproj", "{A07BA7D0-2773-4CBB-83FF-56AD6E519F8E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "piwik_dynamic_example", "msvc\piwik_dynamic_example_2013.vcxproj", "{83C8F667-E077-4498-A5A7-7DBA6E25AD5C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8644A28-38E0-4461-BE9B-4A1807586E04}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C8644A28-38E0-4461-BE9B-4A1807586E04}.Debug|Win32.Build.0 = Debug|Win32
+		{C8644A28-38E0-4461-BE9B-4A1807586E04}.Release|Win32.ActiveCfg = Release|Win32
+		{C8644A28-38E0-4461-BE9B-4A1807586E04}.Release|Win32.Build.0 = Release|Win32
+		{461D1493-11F4-4688-8C79-C46481336C0D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{461D1493-11F4-4688-8C79-C46481336C0D}.Debug|Win32.Build.0 = Debug|Win32
+		{461D1493-11F4-4688-8C79-C46481336C0D}.Release|Win32.ActiveCfg = Release|Win32
+		{461D1493-11F4-4688-8C79-C46481336C0D}.Release|Win32.Build.0 = Release|Win32
+		{DD9DD154-05D0-47AB-A1C9-A612FE13EC1B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DD9DD154-05D0-47AB-A1C9-A612FE13EC1B}.Debug|Win32.Build.0 = Debug|Win32
+		{DD9DD154-05D0-47AB-A1C9-A612FE13EC1B}.Release|Win32.ActiveCfg = Release|Win32
+		{DD9DD154-05D0-47AB-A1C9-A612FE13EC1B}.Release|Win32.Build.0 = Release|Win32
+		{A07BA7D0-2773-4CBB-83FF-56AD6E519F8E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A07BA7D0-2773-4CBB-83FF-56AD6E519F8E}.Debug|Win32.Build.0 = Debug|Win32
+		{A07BA7D0-2773-4CBB-83FF-56AD6E519F8E}.Release|Win32.ActiveCfg = Release|Win32
+		{A07BA7D0-2773-4CBB-83FF-56AD6E519F8E}.Release|Win32.Build.0 = Release|Win32
+		{83C8F667-E077-4498-A5A7-7DBA6E25AD5C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{83C8F667-E077-4498-A5A7-7DBA6E25AD5C}.Debug|Win32.Build.0 = Debug|Win32
+		{83C8F667-E077-4498-A5A7-7DBA6E25AD5C}.Release|Win32.ActiveCfg = Release|Win32
+		{83C8F667-E077-4498-A5A7-7DBA6E25AD5C}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

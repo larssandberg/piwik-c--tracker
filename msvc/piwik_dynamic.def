@@ -1,0 +1,4 @@
+LIBRARY   piwik_dynamic
+EXPORTS
+   createPiwikTracker   @1
+   deletePiwikTracker   @2
