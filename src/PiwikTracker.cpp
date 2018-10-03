@@ -4,7 +4,7 @@
 #include "Utils.h"
 #include <time.h>
 #include <stdlib.h>
-#include <boost/uuid/sha1.hpp>
+#include <boost/uuid/uuid.hpp>
 #include <algorithm>
 #include <string.h>
 #ifdef __unix__
